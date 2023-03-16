@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4cfdae48.chunk.css",
+    "main.js": "/static/js/main.05ad2616.chunk.js",
+    "main.js.map": "/static/js/main.05ad2616.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.09b85ec0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.09b85ec0.js.map",
+    "static/js/2.fd03b969.chunk.js": "/static/js/2.fd03b969.chunk.js",
+    "static/js/2.fd03b969.chunk.js.map": "/static/js/2.fd03b969.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b2920f0fbfbeb170a7ba13a0754ff057.js": "/precache-manifest.b2920f0fbfbeb170a7ba13a0754ff057.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.4cfdae48.chunk.css.map": "/static/css/main.4cfdae48.chunk.css.map",
+    "static/js/2.fd03b969.chunk.js.LICENSE.txt": "/static/js/2.fd03b969.chunk.js.LICENSE.txt",
+    "static/media/calendar.svg": "/static/media/calendar.ef5703c5.svg",
+    "static/media/coughing_2.svg": "/static/media/coughing_2.f1f96e75.svg",
+    "static/media/doctor (1).png": "/static/media/doctor (1).82ea1db8.png",
+    "static/media/doctor4.svg": "/static/media/doctor4.0211ccbe.svg",
+    "static/media/doctor8.svg": "/static/media/doctor8.e99223a0.svg",
+    "static/media/graduation.svg": "/static/media/graduation.d7750959.svg",
+    "static/media/mention.svg": "/static/media/mention.f7204bb0.svg",
+    "static/media/newDoctor1.svg": "/static/media/newDoctor1.45a94407.svg",
+    "static/media/undraw_doctor_kw5l.svg": "/static/media/undraw_doctor_kw5l.baaceb4a.svg",
+    "static/media/undraw_forms_78yw.svg": "/static/media/undraw_forms_78yw.6e6a5db0.svg",
+    "static/media/undraw_medical_research_qg4d.svg": "/static/media/undraw_medical_research_qg4d.7702c996.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09b85ec0.js",
+    "static/js/2.fd03b969.chunk.js",
+    "static/css/main.4cfdae48.chunk.css",
+    "static/js/main.05ad2616.chunk.js"
+  ]
+}
